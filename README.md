@@ -4,9 +4,16 @@ TodoList Console App
 
 Проект создан в рамках учебной практики для освоения основ C#, работы с Git и GitHub.
 
+
+Пример работы:
+
+
+<img width="392" height="503" alt="image" src="https://github.com/user-attachments/assets/ae66063d-04c4-4b57-97e8-18204a066f55" />
+
+
+
 Функционал:
 
-Описание:
 
 ---
 1.Добавление новой задачи
